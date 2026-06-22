@@ -18,5 +18,3 @@ następnie:
 ## Technologie
 C++ (CLion)
 
-## Link do repozytorium
-https://github.com/TWOJ_LOGIN/TWOJE_REPO
